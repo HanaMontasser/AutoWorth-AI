@@ -1,5 +1,9 @@
 🚗 AutoWorth AI — Used Car Price & Deal Advisor
 
+## 🚀 Live Demo
+
+[Open AutoWorth AI](https://autoworth-ai-yyqgem6vwsh6b4knvgpmlm.streamlit.app/)
+
 An end-to-end Machine Learning project that predicts the fair market price of a used UK car and compares it against a seller's asking price to produce a Deal Rating (Great Deal → Overpriced).
 
 Problem Statement
